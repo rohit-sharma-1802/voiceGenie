@@ -1,3 +1,8 @@
+## Screenshots (UI)
+![Screenshot](/screenshots/sc1.png)
+![Screenshot](/screenshots/sc2.png)
+![Screenshot](/screenshots/sc3.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
