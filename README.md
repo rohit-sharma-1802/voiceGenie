@@ -1,8 +1,8 @@
 ## Screenshots (UI)
 <p float="left">
-  <img src="/screenshots/sc1.png" width="33%" />
-  <img src="/screenshots//sc2.png" width="33%" />
-  <img src="/screenshots//sc3.png" width="33%" />
+  <img src="/screenshots/sc1.png" width="20%" />
+  <img src="/screenshots/sc2.png" width="20%" />
+  <img src="/screenshots/sc3.png" width="20%" />
 </p>
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
